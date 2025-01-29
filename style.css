@@ -132,4 +132,8 @@ div {
        width: 100%;
     }
 
+    section div{
+        margin: 0;
+    }
+
 }
